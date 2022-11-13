@@ -1,4 +1,4 @@
-<img align="left" src="" alt="Boun-EduTech" width ="100%" height = "auto" /></p>
+<img align="left" src="https://github.com/Boun-EduTech/CsharpLesson2022/blob/main/images/logo/csharp.jpeg?raw=true" alt="Boun-EduTech" width ="100%" height = "auto" /></p>
     
 # CsharpLesson2022
 
