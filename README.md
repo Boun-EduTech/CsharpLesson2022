@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/Boun-EduTech/CsharpLesson2022/blob/main/images/logo/csharp.jpeg?raw=true" alt="Boun-EduTech" width ="100%" height = "auto" /></p>
+<img align="left" src="https://github.com/Boun-EduTech/CsharpLesson2022/blob/main/images/logo/csharplogo.jpeg?raw=true" alt="Boun-EduTech" width ="100%" height = "auto" /></p>
     
 # CsharpLesson2022
 
@@ -78,7 +78,15 @@
 <!-- ABOUT THE PROJECT -->
 ## 🌟 About The Project
 
-This is BOUN EduTech C# Lesson Repo 2022
+This is BOUN EduTech C# Lesson Repo 2022.
+
+To create C# project, follow these steps;
+1. Go to your terminal and in terminal, go to your file where you want to save it
+2. Open it on your VS code 
+3. You should go to the fourth one on the left menu and create .json file (.Net 5...)
+4. Go to the first one on the left menu and find .vscode file and find launch.json file
+5. Open .json file and change this one "console": "integratedTerminal"
+6. To start your program, go to the fourth one and click "run and debug"
 
 ### 👾  Built With
 
