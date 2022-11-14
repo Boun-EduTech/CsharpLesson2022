@@ -92,17 +92,21 @@ This is BOUN EduTech C# Lesson Repo 2022
 <!-- ROADMAP -->
 ## 🧭Roadmap
 
-- [ ] Variables
+- [x] Variables
  - Project Link => https://github.com/Alierenkayhan/mypatikadevrepoCsharp101variables
-- [ ] Operators
+- [x] Operators
  - Project Link => https://github.com/Alierenkayhan/mypatikadevrepoCsharp101operators
-- [ ] Type conversions
+- [x] Type conversions
  - Project Link => https://github.com/Alierenkayhan/mypatikadevrepoCsharp101tipdonusumleri
+- [x] If-else
+- [x] Switch case
+- [x] Loops
+- [x] While
 - [ ] Debugging and Try-Catch 
-- [ ] If-else
-- [ ] Switch case
-- [ ] Loops
-- [ ] While
+- [ ] Functions
+- [ ] Class
+- [ ] Structures
+- [ ] Pointers
 - [ ] Arrays
 - [ ] Methods
 - [ ] Algorithms
